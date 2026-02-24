@@ -6,6 +6,9 @@ This project presents an interactive Tableau dashboard suite analyzing the NYC A
 
 The dashboard is designed to provide both high-level executive insights and detailed segmentation analysis.
 
+## 📷 Dashboard Preview
+
+![Executive Overview](Dashboard_Screenshots/Executive summary or overview.png)
 ---
 
 ## 🎯 Objectives
