@@ -8,8 +8,8 @@ The dashboard is designed to provide both high-level executive insights and deta
 
 ## 📷 Dashboard Preview
 
-![Executive Overview](Dashboard_Screenshots/Executive summary or overview.png)
----
+![Executive Overview](Dashboard_Screenshots/Executive_summary.png)
+
 
 ## 🎯 Objectives
 
