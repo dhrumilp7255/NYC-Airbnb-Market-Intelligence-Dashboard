@@ -95,12 +95,6 @@ The dashboard is designed to provide both high-level executive insights and deta
 
 ---
 
-## 🚀 How to View
-
-Go to: (link)
-
----
-
 ## 💡 Project Type
 
 Business Intelligence (BI) / Exploratory Data Analysis (EDA)
